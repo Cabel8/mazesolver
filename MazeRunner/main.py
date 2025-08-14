@@ -26,5 +26,5 @@ def main():
 
     win.wait_for_close()
 
-
+print('start')
 main()
